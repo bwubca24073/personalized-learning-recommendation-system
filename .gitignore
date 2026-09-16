@@ -1,0 +1,16 @@
+:::writing{variant="standard" id="73146" title=".gitignore"}
+```text
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

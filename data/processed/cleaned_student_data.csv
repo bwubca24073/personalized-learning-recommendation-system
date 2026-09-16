@@ -1,0 +1,501 @@
+Student_ID,Age,Study_Hours,Attendance,Previous_Score,Quiz_Score,Study_Frequency,Interest,Learning_Style,Preferred_Difficulty,Completed_Topics,Weak_Topic,Preferred_Resource,Recommended_Topic
+S001,23,4.2,81.7,93.2,100.0,1,Programming,Practical,Hard,5,Python Functions,Exercises,Python OOP
+S002,19,3.1,78.4,91.8,96.4,6,Programming,Visual,Hard,11,Machine Learning,Video,Python Functions
+S003,18,2.8,87.1,76.4,73.6,1,Programming,Reading,Hard,5,Python Basics,Notes,Python Functions
+S004,22,3.9,59.8,64.4,61.0,2,Mathematics,Reading,Medium,9,Statistics,Notes,Statistics
+S005,20,2.0,82.8,65.7,57.2,7,Programming,Reading,Medium,13,Machine Learning,Notes,Python Basics
+S006,20,5.7,83.7,98.0,89.5,3,Data Science,Reading,Hard,14,NumPy,Notes,Machine Learning
+S007,18,2.7,81.7,68.3,70.6,1,Mathematics,Visual,Medium,7,Probability,Video,Statistics
+S008,22,2.6,76.7,70.2,81.3,3,Programming,Audio,Medium,10,Python Basics,Audio,Python Functions
+S009,21,3.5,69.3,85.3,78.0,1,Web Development,Practical,Hard,11,HTML CSS,Exercises,HTML CSS
+S010,23,3.8,59.1,66.7,67.9,1,Programming,Reading,Medium,14,Python OOP,Notes,Python Functions
+S011,18,4.6,86.3,91.5,89.7,7,Data Science,Visual,Hard,8,NumPy,Video,Machine Learning
+S012,21,1.3,69.0,59.6,65.9,6,Web Development,Reading,Medium,7,JavaScript,Notes,HTML CSS
+S013,19,4.0,61.8,82.2,79.9,6,Web Development,Visual,Hard,11,HTML CSS,Video,JavaScript
+S014,22,2.5,87.3,86.3,91.9,6,Data Science,Reading,Hard,9,Machine Learning,Notes,NumPy
+S015,20,2.2,75.7,74.5,80.4,6,Data Science,Practical,Medium,15,Statistics,Exercises,Pandas
+S016,19,2.8,78.4,68.2,61.0,7,Programming,Practical,Medium,8,Python OOP,Exercises,Python Functions
+S017,18,4.7,100.0,97.3,100.0,2,Web Development,Reading,Hard,12,JavaScript,Notes,JavaScript
+S018,21,4.0,75.3,87.2,96.4,6,Mathematics,Reading,Hard,6,Algebra,Notes,Probability
+S019,19,3.4,100.0,67.8,72.7,6,Web Development,Audio,Medium,11,JavaScript,Audio,HTML CSS
+S020,20,3.6,78.6,83.4,71.5,2,Data Science,Audio,Hard,3,Statistics,Audio,NumPy
+S021,24,3.2,85.7,94.2,91.1,1,Data Science,Reading,Hard,14,Machine Learning,Notes,NumPy
+S022,22,2.3,73.6,79.2,81.2,1,Mathematics,Audio,Hard,11,Probability,Audio,Statistics
+S023,22,2.7,86.6,80.0,85.8,3,Programming,Visual,Hard,12,Python OOP,Video,Python Functions
+S024,24,2.4,75.9,70.2,61.4,6,Web Development,Visual,Medium,6,JavaScript,Video,HTML CSS
+S025,19,3.9,85.9,87.4,86.0,4,Programming,Practical,Hard,10,Python Functions,Exercises,Python Functions
+S026,22,1.4,72.8,62.5,57.7,1,Web Development,Reading,Medium,4,JavaScript,Notes,HTML CSS
+S027,24,3.3,86.4,98.0,99.0,2,Programming,Practical,Hard,9,Python Basics,Exercises,Python Functions
+S028,18,3.9,81.9,70.6,70.4,3,Web Development,Reading,Medium,2,HTML CSS,Notes,HTML CSS
+S029,22,3.6,100.0,88.7,90.5,1,Programming,Audio,Hard,15,Python Basics,Audio,Python Functions
+S030,24,3.4,67.8,86.7,91.2,5,Data Science,Reading,Hard,12,Machine Learning,Notes,NumPy
+S031,22,4.7,73.5,98.0,89.6,2,Web Development,Audio,Hard,5,HTML CSS,Audio,JavaScript
+S032,23,4.4,100.0,87.9,84.5,3,Mathematics,Practical,Hard,9,Statistics,Exercises,Probability
+S033,21,3.6,76.2,69.5,69.9,1,Data Science,Reading,Medium,3,NumPy,Notes,NumPy
+S034,18,1.9,84.5,65.5,74.8,5,Data Science,Reading,Medium,2,Statistics,Notes,NumPy
+S035,23,2.3,75.7,79.1,71.7,6,Programming,Reading,Hard,3,Python Basics,Notes,Python Functions
+S036,24,3.8,98.3,78.1,79.2,3,Programming,Reading,Hard,6,Machine Learning,Notes,Python Functions
+S037,19,3.9,92.2,79.7,71.8,5,Data Science,Audio,Hard,5,Machine Learning,Audio,NumPy
+S038,24,4.3,87.2,92.6,94.7,4,Data Science,Visual,Hard,3,Machine Learning,Video,NumPy
+S039,20,2.5,82.8,78.8,74.5,4,Mathematics,Audio,Hard,15,Statistics,Audio,Statistics
+S040,18,6.3,93.3,97.2,100.0,6,Programming,Visual,Hard,8,Python OOP,Video,Python OOP
+S041,24,2.0,88.4,84.2,79.3,7,Programming,Reading,Hard,5,Python Functions,Notes,Python Functions
+S042,22,4.9,89.8,98.0,100.0,4,Data Science,Audio,Hard,4,NumPy,Audio,Machine Learning
+S043,21,3.1,72.2,69.9,65.0,2,Programming,Audio,Medium,14,Python Basics,Audio,Python Functions
+S044,18,3.4,85.9,86.1,91.1,6,Programming,Visual,Hard,14,Python Functions,Video,Python Functions
+S045,19,3.5,99.4,87.2,100.0,4,Mathematics,Audio,Hard,5,Probability,Audio,Statistics
+S046,18,4.4,73.5,78.0,80.9,2,Mathematics,Visual,Hard,8,Probability,Video,Probability
+S047,24,3.2,90.0,87.7,87.3,7,Mathematics,Practical,Hard,8,Statistics,Exercises,Statistics
+S048,23,2.2,61.2,63.2,68.3,7,Mathematics,Reading,Medium,5,Probability,Notes,Statistics
+S049,19,3.8,67.7,81.7,84.0,1,Programming,Practical,Hard,2,Python Basics,Exercises,Python Functions
+S050,22,2.2,81.2,74.3,67.4,4,Data Science,Visual,Medium,10,Statistics,Video,NumPy
+S051,24,4.0,89.7,98.0,100.0,2,Programming,Visual,Hard,12,Python Functions,Video,Python OOP
+S052,21,1.4,66.5,67.2,70.3,1,Data Science,Visual,Medium,11,Statistics,Video,NumPy
+S053,21,4.3,100.0,98.0,100.0,6,Web Development,Practical,Hard,5,JavaScript,Exercises,JavaScript
+S054,19,4.9,92.6,94.2,98.8,3,Mathematics,Reading,Hard,12,Statistics,Notes,Probability
+S055,20,2.3,76.8,69.1,69.6,4,Web Development,Visual,Medium,2,JavaScript,Video,HTML CSS
+S056,22,7.0,66.6,98.0,88.3,5,Programming,Visual,Hard,10,Python Functions,Video,Python OOP
+S057,22,2.8,93.7,82.9,76.4,3,Data Science,Practical,Hard,3,Pandas,Exercises,Pandas
+S058,20,2.4,88.0,71.8,73.1,3,Data Science,Audio,Medium,15,NumPy,Audio,NumPy
+S059,22,3.6,74.4,98.0,100.0,7,Programming,Practical,Hard,12,Python Basics,Exercises,Python Functions
+S060,19,0.5,78.2,55.6,60.7,3,Programming,Visual,Medium,13,Python Functions,Video,Python Basics
+S061,20,2.3,78.2,77.5,82.7,3,Data Science,Practical,Hard,5,NumPy,Exercises,Pandas
+S062,22,1.7,74.4,64.1,60.2,4,Web Development,Visual,Medium,3,JavaScript,Video,HTML CSS
+S063,24,6.1,92.1,94.8,100.0,3,Programming,Visual,Hard,7,Python Functions,Video,Python OOP
+S064,23,6.7,100.0,98.0,95.1,3,Data Science,Audio,Hard,10,Machine Learning,Audio,Machine Learning
+S065,22,5.4,77.3,98.0,100.0,1,Programming,Visual,Hard,13,Python Functions,Video,Python OOP
+S066,22,2.1,78.5,46.2,40.1,1,Web Development,Reading,Easy,8,HTML CSS,Notes,HTML CSS
+S067,18,3.1,66.2,87.9,79.3,3,Web Development,Visual,Hard,7,HTML CSS,Video,HTML CSS
+S068,23,2.8,82.2,89.9,81.3,2,Programming,Practical,Hard,14,Machine Learning,Exercises,Python Functions
+S069,22,5.2,85.5,88.5,91.3,6,Data Science,Reading,Hard,15,Pandas,Notes,Machine Learning
+S070,24,3.8,75.4,83.5,81.2,7,Data Science,Audio,Hard,2,Pandas,Audio,NumPy
+S071,23,3.7,90.3,98.0,90.6,3,Mathematics,Reading,Hard,6,Algebra,Notes,Statistics
+S072,24,6.7,65.0,98.0,100.0,6,Programming,Audio,Hard,15,Python Basics,Audio,Python OOP
+S073,24,3.9,75.3,82.0,79.0,4,Data Science,Reading,Hard,15,Machine Learning,Notes,NumPy
+S074,20,2.6,90.4,82.7,78.5,3,Data Science,Reading,Hard,2,Pandas,Notes,NumPy
+S075,21,4.8,88.3,98.0,100.0,3,Web Development,Visual,Hard,14,JavaScript,Video,JavaScript
+S076,20,2.3,72.9,77.6,81.3,6,Mathematics,Practical,Hard,2,Algebra,Exercises,Statistics
+S077,20,3.5,83.4,93.9,90.4,2,Web Development,Visual,Hard,3,JavaScript,Video,HTML CSS
+S078,20,4.3,81.2,86.8,93.4,6,Web Development,Audio,Hard,11,HTML CSS,Audio,JavaScript
+S079,21,4.7,94.2,98.0,98.1,5,Data Science,Practical,Hard,2,Machine Learning,Exercises,Machine Learning
+S080,18,4.5,80.3,92.2,91.4,5,Data Science,Practical,Hard,8,Statistics,Exercises,Machine Learning
+S081,23,3.6,89.3,79.9,92.5,3,Web Development,Visual,Hard,13,JavaScript,Video,HTML CSS
+S082,22,2.0,64.4,75.8,80.5,3,Mathematics,Practical,Hard,8,Statistics,Exercises,Statistics
+S083,20,4.4,91.3,92.7,87.3,5,Data Science,Reading,Hard,8,Machine Learning,Notes,NumPy
+S084,23,3.6,74.1,88.9,88.0,6,Data Science,Practical,Hard,8,Statistics,Exercises,Pandas
+S085,20,2.3,75.7,75.9,72.5,3,Data Science,Audio,Hard,14,NumPy,Audio,NumPy
+S086,21,2.3,82.5,76.9,73.9,4,Mathematics,Reading,Hard,10,Probability,Notes,Statistics
+S087,24,2.8,83.4,67.2,58.8,7,Data Science,Visual,Medium,6,NumPy,Video,Statistics
+S088,18,2.4,77.2,76.3,85.2,7,Data Science,Practical,Hard,5,Pandas,Exercises,Pandas
+S089,19,4.8,82.7,92.4,86.4,1,Programming,Reading,Hard,9,Python Basics,Notes,Python OOP
+S090,21,3.5,78.5,84.6,79.6,4,Data Science,Audio,Hard,9,Machine Learning,Audio,NumPy
+S091,19,4.3,100.0,94.2,96.6,2,Programming,Visual,Hard,14,Machine Learning,Video,Python OOP
+S092,19,4.5,79.2,91.0,91.1,2,Mathematics,Visual,Hard,10,Algebra,Video,Probability
+S093,24,3.6,72.9,80.9,83.9,1,Mathematics,Reading,Hard,14,Probability,Notes,Statistics
+S094,23,5.7,97.9,98.0,93.4,5,Web Development,Audio,Hard,11,JavaScript,Audio,JavaScript
+S095,24,4.8,86.8,98.0,93.2,5,Mathematics,Reading,Hard,13,Probability,Notes,Probability
+S096,21,2.2,72.2,53.7,50.5,3,Data Science,Practical,Easy,14,Machine Learning,Exercises,Statistics
+S097,23,2.4,81.6,78.1,89.4,2,Web Development,Audio,Hard,3,JavaScript,Audio,HTML CSS
+S098,19,4.9,77.9,84.4,87.4,3,Web Development,Practical,Hard,10,HTML CSS,Exercises,JavaScript
+S099,19,1.5,100.0,84.9,82.1,2,Data Science,Audio,Hard,13,Pandas,Audio,NumPy
+S100,23,0.9,93.0,67.9,75.3,2,Programming,Audio,Medium,8,Python OOP,Audio,Python Functions
+S101,22,1.1,70.0,62.2,62.5,4,Mathematics,Visual,Medium,5,Probability,Video,Statistics
+S102,21,2.8,88.1,71.9,71.0,7,Programming,Audio,Medium,9,Python Basics,Audio,Python Functions
+S103,20,3.7,88.6,92.6,85.9,3,Mathematics,Audio,Hard,10,Statistics,Audio,Statistics
+S104,23,1.2,92.7,73.5,69.0,5,Data Science,Audio,Medium,5,NumPy,Audio,NumPy
+S105,21,5.8,88.0,98.0,98.4,4,Programming,Audio,Hard,7,Machine Learning,Audio,Python OOP
+S106,23,6.6,100.0,98.0,100.0,2,Mathematics,Reading,Hard,11,Statistics,Notes,Probability
+S107,18,4.5,100.0,88.8,92.9,4,Programming,Visual,Hard,12,Machine Learning,Video,Python OOP
+S108,19,5.1,64.1,78.7,66.5,7,Mathematics,Reading,Hard,2,Probability,Notes,Probability
+S109,21,3.1,89.8,95.1,95.5,3,Data Science,Audio,Hard,7,NumPy,Audio,NumPy
+S110,24,5.9,70.2,82.2,81.9,4,Web Development,Audio,Hard,6,HTML CSS,Audio,JavaScript
+S111,21,4.1,82.8,71.1,70.6,1,Programming,Practical,Medium,5,Python Basics,Exercises,Python Functions
+S112,24,1.5,86.0,73.5,67.9,6,Programming,Visual,Medium,5,Python Functions,Video,Python Functions
+S113,24,2.7,67.7,72.1,77.8,1,Data Science,Reading,Medium,4,Machine Learning,Notes,NumPy
+S114,23,2.0,85.0,69.5,64.7,1,Data Science,Audio,Medium,13,NumPy,Audio,NumPy
+S115,24,3.3,69.2,72.9,65.7,3,Data Science,Visual,Medium,14,Pandas,Video,NumPy
+S116,20,6.4,88.2,98.0,99.3,1,Programming,Practical,Hard,11,Machine Learning,Exercises,Python OOP
+S117,21,3.3,78.9,85.6,90.1,6,Data Science,Visual,Hard,11,Pandas,Video,NumPy
+S118,18,2.7,73.5,72.4,58.6,6,Web Development,Visual,Medium,14,HTML CSS,Video,HTML CSS
+S119,20,1.2,93.8,84.4,82.9,5,Mathematics,Practical,Hard,3,Statistics,Exercises,Statistics
+S120,23,4.4,87.5,98.0,100.0,3,Programming,Audio,Hard,15,Machine Learning,Audio,Python OOP
+S121,18,3.3,70.1,64.8,66.0,4,Web Development,Audio,Medium,13,HTML CSS,Audio,HTML CSS
+S122,21,2.4,62.7,63.6,57.1,2,Web Development,Audio,Medium,9,JavaScript,Audio,HTML CSS
+S123,24,6.0,97.6,98.0,100.0,6,Web Development,Practical,Hard,15,HTML CSS,Exercises,JavaScript
+S124,24,3.6,71.9,92.5,95.7,1,Web Development,Audio,Hard,5,JavaScript,Audio,HTML CSS
+S125,22,1.9,76.5,63.1,54.8,5,Mathematics,Practical,Medium,2,Probability,Exercises,Algebra
+S126,24,4.9,100.0,88.1,91.5,3,Data Science,Audio,Hard,5,NumPy,Audio,Machine Learning
+S127,24,2.5,74.2,68.7,63.5,3,Web Development,Practical,Medium,11,JavaScript,Exercises,HTML CSS
+S128,22,3.6,72.2,82.6,82.3,1,Data Science,Visual,Hard,5,Machine Learning,Video,NumPy
+S129,21,3.1,70.3,71.7,76.2,5,Data Science,Audio,Medium,12,Machine Learning,Audio,NumPy
+S130,21,4.3,71.9,86.1,90.6,7,Programming,Visual,Hard,6,Python Functions,Video,Python OOP
+S131,21,1.0,83.5,60.9,64.3,6,Data Science,Practical,Medium,12,NumPy,Exercises,Pandas
+S132,21,2.4,58.1,54.1,54.4,5,Web Development,Audio,Easy,13,JavaScript,Audio,HTML CSS
+S133,20,3.9,71.9,87.6,77.6,6,Mathematics,Practical,Hard,6,Probability,Exercises,Statistics
+S134,19,3.4,67.3,72.1,72.4,1,Data Science,Practical,Medium,3,Pandas,Exercises,Pandas
+S135,19,2.2,74.8,79.6,76.1,2,Mathematics,Practical,Hard,13,Statistics,Exercises,Statistics
+S136,24,4.8,71.0,92.7,100.0,5,Web Development,Visual,Hard,15,HTML CSS,Video,JavaScript
+S137,20,0.5,66.4,61.4,60.2,2,Web Development,Reading,Medium,6,HTML CSS,Notes,HTML CSS
+S138,23,4.1,76.0,86.0,85.1,5,Data Science,Practical,Hard,2,Statistics,Exercises,Pandas
+S139,22,5.3,88.7,98.0,95.5,3,Data Science,Audio,Hard,3,Statistics,Audio,Machine Learning
+S140,22,2.8,75.4,79.1,76.6,3,Mathematics,Audio,Hard,9,Probability,Audio,Statistics
+S141,19,3.9,100.0,98.0,96.0,1,Web Development,Audio,Hard,3,HTML CSS,Audio,HTML CSS
+S142,21,5.3,80.7,79.0,73.0,4,Programming,Visual,Hard,4,Python Functions,Video,Python OOP
+S143,24,0.7,72.2,60.3,70.4,5,Web Development,Visual,Medium,5,HTML CSS,Video,HTML CSS
+S144,22,4.0,80.4,92.8,79.5,7,Mathematics,Reading,Hard,14,Statistics,Notes,Probability
+S145,21,3.9,92.1,77.7,84.6,4,Mathematics,Practical,Hard,15,Statistics,Exercises,Statistics
+S146,21,4.0,78.0,90.4,100.0,3,Programming,Visual,Hard,14,Python Functions,Video,Python OOP
+S147,23,3.8,85.6,82.9,77.8,2,Web Development,Visual,Hard,4,HTML CSS,Video,HTML CSS
+S148,19,4.7,74.1,89.4,86.5,5,Programming,Reading,Hard,2,Machine Learning,Notes,Python OOP
+S149,21,4.2,87.4,98.0,94.9,6,Mathematics,Practical,Hard,2,Algebra,Exercises,Probability
+S150,20,3.1,69.5,72.5,74.8,6,Web Development,Audio,Medium,3,HTML CSS,Audio,HTML CSS
+S151,20,4.6,73.1,94.7,100.0,7,Data Science,Audio,Hard,3,Pandas,Audio,Machine Learning
+S152,23,4.1,100.0,87.5,80.0,2,Web Development,Reading,Hard,3,HTML CSS,Notes,JavaScript
+S153,19,0.8,94.6,73.9,73.6,7,Web Development,Practical,Medium,9,HTML CSS,Exercises,HTML CSS
+S154,21,3.9,69.3,98.0,98.8,6,Web Development,Audio,Hard,6,JavaScript,Audio,HTML CSS
+S155,21,3.7,91.1,91.6,92.9,1,Programming,Audio,Hard,13,Python OOP,Audio,Python Functions
+S156,22,2.3,85.3,91.0,99.1,3,Programming,Visual,Hard,5,Python Basics,Video,Python Functions
+S157,24,5.9,80.7,91.6,90.8,6,Web Development,Visual,Hard,14,HTML CSS,Video,JavaScript
+S158,21,3.6,95.3,75.0,84.2,5,Mathematics,Practical,Hard,4,Statistics,Exercises,Statistics
+S159,21,3.3,76.5,71.8,61.9,6,Mathematics,Visual,Medium,9,Probability,Video,Statistics
+S160,21,4.7,85.3,82.4,74.6,3,Web Development,Visual,Hard,15,HTML CSS,Video,JavaScript
+S161,20,3.0,100.0,83.9,74.9,4,Mathematics,Practical,Hard,12,Probability,Exercises,Statistics
+S162,24,3.1,77.9,57.4,57.1,7,Programming,Audio,Medium,3,Python OOP,Audio,Python Basics
+S163,20,3.2,89.8,98.0,100.0,3,Programming,Audio,Hard,15,Python Basics,Audio,Python Functions
+S164,23,3.1,67.9,96.1,96.5,7,Mathematics,Audio,Hard,2,Algebra,Audio,Statistics
+S165,22,3.5,81.7,84.7,83.8,3,Mathematics,Audio,Hard,14,Algebra,Audio,Statistics
+S166,19,2.6,73.6,73.7,70.4,3,Data Science,Practical,Medium,9,Machine Learning,Exercises,Pandas
+S167,18,2.4,81.1,73.1,82.1,1,Data Science,Reading,Medium,6,Statistics,Notes,NumPy
+S168,22,0.5,89.1,74.7,62.3,4,Programming,Reading,Medium,15,Python Basics,Notes,Python Functions
+S169,21,3.0,76.5,66.5,61.8,1,Data Science,Audio,Medium,13,NumPy,Audio,NumPy
+S170,22,1.8,99.6,84.9,92.5,6,Web Development,Audio,Hard,15,JavaScript,Audio,HTML CSS
+S171,21,4.6,70.7,82.7,85.6,2,Mathematics,Reading,Hard,8,Algebra,Notes,Probability
+S172,22,1.7,87.0,70.4,68.2,5,Data Science,Visual,Medium,6,Machine Learning,Video,NumPy
+S173,20,4.6,89.5,90.6,97.6,7,Web Development,Visual,Hard,6,JavaScript,Video,JavaScript
+S174,24,1.9,86.2,78.2,76.3,5,Mathematics,Reading,Hard,9,Statistics,Notes,Statistics
+S175,21,4.0,68.0,89.2,88.1,3,Web Development,Audio,Hard,9,JavaScript,Audio,JavaScript
+S176,24,2.7,93.0,75.8,67.3,2,Data Science,Audio,Hard,5,Machine Learning,Audio,NumPy
+S177,18,1.2,84.7,57.8,68.3,3,Mathematics,Audio,Medium,8,Statistics,Audio,Algebra
+S178,24,0.5,96.4,68.9,68.3,7,Data Science,Audio,Medium,2,Pandas,Audio,NumPy
+S179,22,2.7,85.2,78.4,85.0,5,Web Development,Visual,Hard,15,JavaScript,Video,HTML CSS
+S180,18,3.7,84.2,82.5,82.2,5,Mathematics,Visual,Hard,13,Algebra,Video,Statistics
+S181,21,4.0,62.5,69.1,73.6,7,Data Science,Visual,Medium,9,NumPy,Video,NumPy
+S182,20,3.8,80.4,84.9,87.0,5,Mathematics,Visual,Hard,15,Probability,Video,Statistics
+S183,24,2.7,71.1,75.4,69.5,6,Mathematics,Practical,Hard,12,Statistics,Exercises,Statistics
+S184,24,4.1,62.8,88.9,91.7,4,Programming,Visual,Hard,5,Python OOP,Video,Python OOP
+S185,19,3.9,94.6,98.0,100.0,6,Programming,Audio,Hard,3,Python Basics,Audio,Python Functions
+S186,21,0.7,61.0,51.3,51.5,2,Web Development,Visual,Easy,2,JavaScript,Video,HTML CSS
+S187,24,4.3,74.9,87.8,83.3,1,Web Development,Practical,Hard,7,JavaScript,Exercises,JavaScript
+S188,19,2.6,63.3,63.0,54.9,2,Mathematics,Reading,Medium,4,Algebra,Notes,Algebra
+S189,18,2.0,91.6,68.5,84.3,5,Mathematics,Reading,Medium,9,Statistics,Notes,Statistics
+S190,19,4.2,85.6,82.5,86.7,2,Mathematics,Practical,Hard,9,Probability,Exercises,Probability
+S191,23,2.6,81.7,97.3,96.7,1,Mathematics,Practical,Hard,12,Statistics,Exercises,Statistics
+S192,19,5.2,77.0,93.1,100.0,1,Mathematics,Practical,Hard,11,Probability,Exercises,Probability
+S193,23,2.6,100.0,88.9,85.5,4,Web Development,Audio,Hard,15,JavaScript,Audio,HTML CSS
+S194,19,4.4,95.5,98.0,88.6,4,Mathematics,Visual,Hard,5,Probability,Video,Probability
+S195,22,2.4,76.8,73.1,76.8,3,Web Development,Practical,Medium,2,JavaScript,Exercises,HTML CSS
+S196,20,3.8,66.6,83.0,86.7,1,Programming,Audio,Hard,15,Python OOP,Audio,Python Functions
+S197,24,4.3,96.6,98.0,100.0,7,Data Science,Practical,Hard,5,Pandas,Exercises,Pandas
+S198,22,3.4,61.9,78.9,80.1,3,Data Science,Visual,Hard,12,Statistics,Video,NumPy
+S199,20,3.9,67.5,72.3,78.6,7,Mathematics,Visual,Medium,11,Probability,Video,Statistics
+S200,23,3.4,90.0,85.5,85.7,2,Programming,Practical,Hard,7,Machine Learning,Exercises,Python Functions
+S201,19,4.9,78.6,92.6,89.8,2,Data Science,Practical,Hard,10,NumPy,Exercises,Machine Learning
+S202,24,2.8,76.9,78.3,75.4,2,Web Development,Audio,Hard,14,JavaScript,Audio,HTML CSS
+S203,23,5.4,75.1,92.6,90.0,7,Web Development,Visual,Hard,9,HTML CSS,Video,JavaScript
+S204,19,5.7,88.8,98.0,89.1,7,Data Science,Audio,Hard,15,NumPy,Audio,Machine Learning
+S205,18,3.9,93.5,90.7,97.1,7,Mathematics,Visual,Hard,6,Statistics,Video,Statistics
+S206,18,2.7,97.3,98.0,95.8,4,Web Development,Practical,Hard,11,JavaScript,Exercises,HTML CSS
+S207,24,2.8,98.0,96.5,93.4,6,Web Development,Visual,Hard,12,HTML CSS,Video,HTML CSS
+S208,21,2.9,77.4,66.6,61.1,1,Web Development,Reading,Medium,12,HTML CSS,Notes,HTML CSS
+S209,23,2.0,69.8,68.2,69.6,7,Mathematics,Practical,Medium,12,Probability,Exercises,Statistics
+S210,18,5.8,74.6,98.0,96.7,2,Programming,Visual,Hard,6,Machine Learning,Video,Python OOP
+S211,18,3.4,89.9,76.3,78.6,1,Data Science,Reading,Hard,8,Machine Learning,Notes,NumPy
+S212,20,3.7,88.3,89.1,100.0,6,Mathematics,Reading,Hard,8,Statistics,Notes,Statistics
+S213,18,2.5,73.6,68.3,65.0,7,Mathematics,Audio,Medium,6,Algebra,Audio,Statistics
+S214,23,2.5,94.3,91.9,88.5,3,Data Science,Audio,Hard,9,Pandas,Audio,NumPy
+S215,24,2.3,85.3,71.5,75.3,3,Programming,Practical,Medium,10,Python OOP,Exercises,Python Functions
+S216,18,3.8,64.4,91.5,100.0,4,Web Development,Reading,Hard,3,JavaScript,Notes,HTML CSS
+S217,18,2.6,75.5,76.9,78.9,6,Data Science,Visual,Hard,2,NumPy,Video,NumPy
+S218,19,4.5,100.0,95.1,90.3,2,Data Science,Visual,Hard,15,Pandas,Video,Machine Learning
+S219,22,1.4,69.0,63.7,74.5,2,Data Science,Practical,Medium,14,Pandas,Exercises,Pandas
+S220,24,2.7,83.1,77.9,85.0,5,Programming,Practical,Hard,15,Python Functions,Exercises,Python Functions
+S221,19,7.3,83.2,98.0,100.0,5,Web Development,Reading,Hard,3,HTML CSS,Notes,JavaScript
+S222,19,4.5,100.0,98.0,95.8,1,Web Development,Reading,Hard,11,JavaScript,Notes,JavaScript
+S223,18,4.4,97.1,98.0,100.0,2,Web Development,Visual,Hard,4,JavaScript,Video,JavaScript
+S224,22,5.1,99.2,98.0,100.0,1,Programming,Audio,Hard,9,Python OOP,Audio,Python OOP
+S225,22,3.2,83.2,91.2,86.3,5,Programming,Audio,Hard,10,Python Functions,Audio,Python Functions
+S226,22,4.1,78.5,86.4,94.1,1,Web Development,Audio,Hard,12,HTML CSS,Audio,JavaScript
+S227,18,3.8,83.2,74.8,79.3,4,Mathematics,Audio,Medium,12,Algebra,Audio,Statistics
+S228,21,4.5,100.0,94.0,95.3,6,Mathematics,Visual,Hard,3,Probability,Video,Probability
+S229,22,3.9,100.0,91.5,93.2,2,Programming,Reading,Hard,6,Python OOP,Notes,Python Functions
+S230,21,4.4,86.0,87.3,88.5,5,Web Development,Audio,Hard,10,JavaScript,Audio,JavaScript
+S231,18,5.1,72.9,92.3,88.1,7,Programming,Reading,Hard,8,Machine Learning,Notes,Python OOP
+S232,19,5.3,67.3,86.2,88.5,4,Web Development,Audio,Hard,8,JavaScript,Audio,JavaScript
+S233,23,5.8,85.8,96.2,100.0,1,Web Development,Audio,Hard,7,JavaScript,Audio,JavaScript
+S234,20,1.3,51.2,60.5,57.5,2,Mathematics,Visual,Medium,3,Algebra,Video,Algebra
+S235,18,2.0,87.5,76.6,73.2,4,Programming,Practical,Hard,14,Python Functions,Exercises,Python Functions
+S236,22,1.6,88.7,77.4,76.8,1,Web Development,Visual,Hard,8,JavaScript,Video,HTML CSS
+S237,24,6.3,74.8,88.1,83.9,6,Mathematics,Visual,Hard,6,Statistics,Video,Probability
+S238,20,3.4,84.7,81.5,83.6,3,Programming,Reading,Hard,4,Machine Learning,Notes,Python Functions
+S239,19,1.6,95.5,74.0,80.7,7,Programming,Practical,Medium,15,Python OOP,Exercises,Python Functions
+S240,18,4.0,88.5,93.5,96.2,7,Web Development,Reading,Hard,14,JavaScript,Notes,JavaScript
+S241,24,4.5,99.9,98.0,100.0,5,Programming,Practical,Hard,2,Python Functions,Exercises,Python OOP
+S242,20,3.4,99.1,83.1,93.9,6,Web Development,Practical,Hard,7,HTML CSS,Exercises,HTML CSS
+S243,19,3.4,64.6,77.4,73.3,7,Data Science,Audio,Hard,3,Pandas,Audio,NumPy
+S244,23,4.8,76.8,86.9,75.6,6,Programming,Visual,Hard,13,Python Functions,Video,Python OOP
+S245,21,2.8,51.5,55.0,59.6,4,Mathematics,Practical,Medium,4,Probability,Exercises,Algebra
+S246,20,4.7,89.5,86.5,86.2,6,Web Development,Visual,Hard,2,HTML CSS,Video,JavaScript
+S247,19,3.5,68.1,90.4,95.7,7,Programming,Visual,Hard,6,Machine Learning,Video,Python Functions
+S248,23,3.2,81.7,82.7,70.4,4,Mathematics,Audio,Hard,8,Probability,Audio,Statistics
+S249,19,3.1,73.0,69.2,67.5,7,Programming,Practical,Medium,8,Python Basics,Exercises,Python Functions
+S250,20,6.2,95.1,98.0,100.0,6,Mathematics,Practical,Hard,2,Algebra,Exercises,Probability
+S251,21,5.6,97.3,98.0,94.1,5,Programming,Visual,Hard,5,Python OOP,Video,Python OOP
+S252,19,4.5,88.7,98.0,100.0,7,Data Science,Practical,Hard,6,NumPy,Exercises,Machine Learning
+S253,18,5.1,78.8,98.0,99.2,1,Mathematics,Audio,Hard,4,Algebra,Audio,Probability
+S254,21,6.6,79.9,98.0,99.2,5,Data Science,Practical,Hard,3,Machine Learning,Exercises,Machine Learning
+S255,24,2.5,74.2,70.9,73.4,6,Programming,Audio,Medium,2,Machine Learning,Audio,Python Functions
+S256,18,4.3,76.7,86.8,99.7,7,Web Development,Audio,Hard,11,JavaScript,Audio,JavaScript
+S257,23,6.1,92.4,98.0,98.7,6,Mathematics,Practical,Hard,3,Probability,Exercises,Probability
+S258,18,4.4,71.5,83.8,73.8,3,Data Science,Audio,Hard,15,NumPy,Audio,NumPy
+S259,18,4.1,91.0,86.7,96.1,4,Programming,Reading,Hard,8,Machine Learning,Notes,Python OOP
+S260,22,1.7,60.8,65.0,71.3,1,Mathematics,Practical,Medium,13,Probability,Exercises,Statistics
+S261,19,6.0,81.5,98.0,97.8,3,Data Science,Visual,Hard,10,Statistics,Video,Machine Learning
+S262,22,3.2,92.0,89.8,80.3,5,Data Science,Practical,Hard,7,Pandas,Exercises,Pandas
+S263,19,5.7,100.0,98.0,100.0,1,Data Science,Practical,Hard,5,Pandas,Exercises,Machine Learning
+S264,22,4.2,86.5,85.3,81.3,2,Programming,Reading,Hard,14,Machine Learning,Notes,Python OOP
+S265,21,3.5,96.1,92.5,90.3,7,Mathematics,Practical,Hard,15,Statistics,Exercises,Statistics
+S266,20,4.7,50.2,89.7,79.3,2,Mathematics,Visual,Hard,9,Probability,Video,Probability
+S267,23,3.0,67.6,64.3,71.3,3,Web Development,Visual,Medium,7,HTML CSS,Video,HTML CSS
+S268,20,2.8,84.8,78.9,81.8,4,Mathematics,Visual,Hard,2,Probability,Video,Statistics
+S269,24,3.6,66.8,86.6,83.6,3,Programming,Visual,Hard,11,Machine Learning,Video,Python Functions
+S270,21,1.2,72.3,75.7,80.8,5,Programming,Audio,Hard,14,Python Functions,Audio,Python Functions
+S271,20,3.0,76.8,75.3,87.8,5,Mathematics,Reading,Hard,2,Probability,Notes,Statistics
+S272,18,4.1,88.4,97.9,99.3,7,Web Development,Visual,Hard,10,HTML CSS,Video,JavaScript
+S273,18,3.1,78.8,78.7,78.5,2,Mathematics,Audio,Hard,10,Statistics,Audio,Statistics
+S274,22,4.6,84.8,97.7,97.2,2,Web Development,Practical,Hard,6,JavaScript,Exercises,JavaScript
+S275,21,3.6,58.2,82.9,85.0,7,Web Development,Visual,Hard,14,JavaScript,Video,HTML CSS
+S276,18,5.0,50.2,98.0,97.2,3,Programming,Audio,Hard,6,Python OOP,Audio,Python OOP
+S277,23,5.2,72.9,96.8,90.5,7,Data Science,Practical,Hard,3,Pandas,Exercises,Machine Learning
+S278,20,2.6,100.0,81.7,83.0,3,Mathematics,Reading,Hard,11,Statistics,Notes,Statistics
+S279,18,4.8,90.5,96.5,98.7,3,Mathematics,Practical,Hard,15,Algebra,Exercises,Probability
+S280,23,7.1,88.5,98.0,100.0,6,Programming,Audio,Hard,10,Python OOP,Audio,Python OOP
+S281,18,5.2,99.6,98.0,91.1,3,Web Development,Reading,Hard,5,JavaScript,Notes,JavaScript
+S282,24,6.0,73.2,98.0,93.5,4,Data Science,Reading,Hard,4,Pandas,Notes,Machine Learning
+S283,18,3.4,85.7,86.4,88.9,3,Programming,Visual,Hard,12,Python OOP,Video,Python Functions
+S284,24,5.9,92.2,98.0,100.0,5,Data Science,Audio,Hard,4,Pandas,Audio,Machine Learning
+S285,19,5.3,70.9,96.7,100.0,7,Data Science,Audio,Hard,2,Machine Learning,Audio,Machine Learning
+S286,20,3.1,97.7,84.7,85.5,6,Data Science,Audio,Hard,11,NumPy,Audio,NumPy
+S287,24,3.2,81.6,72.2,63.6,6,Mathematics,Reading,Medium,10,Algebra,Notes,Statistics
+S288,20,5.9,76.6,90.2,77.3,7,Mathematics,Reading,Hard,7,Statistics,Notes,Probability
+S289,22,2.5,64.1,83.1,89.2,4,Mathematics,Practical,Hard,14,Probability,Exercises,Statistics
+S290,22,2.5,100.0,90.4,88.5,5,Mathematics,Reading,Hard,15,Algebra,Notes,Statistics
+S291,24,0.5,100.0,57.4,47.5,5,Data Science,Practical,Medium,2,Machine Learning,Exercises,Statistics
+S292,24,5.0,100.0,98.0,100.0,3,Programming,Visual,Hard,6,Python Basics,Video,Python OOP
+S293,24,4.4,94.0,98.0,99.7,2,Web Development,Audio,Hard,10,HTML CSS,Audio,JavaScript
+S294,24,3.7,81.6,78.4,76.7,4,Programming,Reading,Hard,15,Machine Learning,Notes,Python Functions
+S295,20,1.0,75.8,55.6,49.0,1,Mathematics,Visual,Medium,8,Statistics,Video,Algebra
+S296,20,3.8,99.3,98.0,88.6,2,Mathematics,Visual,Hard,7,Algebra,Video,Statistics
+S297,18,2.0,90.3,67.7,66.4,3,Programming,Practical,Medium,14,Python Functions,Exercises,Python Functions
+S298,19,4.3,72.0,86.1,78.1,1,Web Development,Audio,Hard,13,HTML CSS,Audio,JavaScript
+S299,24,2.6,84.0,64.9,67.5,6,Mathematics,Audio,Medium,11,Algebra,Audio,Statistics
+S300,18,3.5,88.6,87.3,95.5,1,Web Development,Reading,Hard,15,HTML CSS,Notes,HTML CSS
+S301,22,3.7,77.2,83.9,87.2,6,Mathematics,Visual,Hard,14,Probability,Video,Statistics
+S302,19,3.6,82.7,78.5,74.5,3,Programming,Visual,Hard,5,Machine Learning,Video,Python Functions
+S303,23,1.4,98.8,64.4,60.2,7,Mathematics,Visual,Medium,3,Probability,Video,Statistics
+S304,22,2.4,90.5,76.1,83.6,5,Programming,Reading,Hard,13,Python Functions,Notes,Python Functions
+S305,20,2.5,83.3,70.0,82.9,4,Programming,Practical,Medium,5,Machine Learning,Exercises,Python Functions
+S306,19,1.7,82.1,75.7,78.2,6,Programming,Practical,Hard,3,Python Basics,Exercises,Python Functions
+S307,21,3.2,79.8,80.7,79.8,7,Mathematics,Visual,Hard,12,Probability,Video,Statistics
+S308,20,4.9,100.0,94.8,86.6,3,Programming,Practical,Hard,14,Python Basics,Exercises,Python OOP
+S309,20,3.4,100.0,82.4,92.2,2,Programming,Practical,Hard,4,Python Basics,Exercises,Python Functions
+S310,20,6.0,80.4,98.0,100.0,5,Web Development,Reading,Hard,15,JavaScript,Notes,JavaScript
+S311,23,2.9,78.4,73.1,67.0,4,Data Science,Reading,Medium,3,Machine Learning,Notes,NumPy
+S312,18,2.5,65.3,70.6,66.0,3,Data Science,Visual,Medium,14,Pandas,Video,NumPy
+S313,18,3.9,64.1,82.4,87.4,3,Web Development,Audio,Hard,15,JavaScript,Audio,HTML CSS
+S314,20,0.5,80.5,71.5,64.2,1,Data Science,Practical,Medium,7,Statistics,Exercises,Pandas
+S315,24,6.0,92.0,98.0,97.7,6,Web Development,Practical,Hard,3,JavaScript,Exercises,JavaScript
+S316,21,4.3,84.5,94.0,88.5,4,Mathematics,Audio,Hard,7,Algebra,Audio,Probability
+S317,21,3.8,65.6,78.7,73.3,6,Mathematics,Practical,Hard,14,Statistics,Exercises,Statistics
+S318,20,2.4,94.6,88.6,92.3,7,Programming,Audio,Hard,3,Machine Learning,Audio,Python Functions
+S319,22,1.9,75.0,79.3,80.2,7,Data Science,Practical,Hard,7,Statistics,Exercises,Pandas
+S320,18,7.0,93.7,98.0,96.1,3,Web Development,Practical,Hard,9,JavaScript,Exercises,JavaScript
+S321,19,3.7,80.6,89.8,95.5,6,Mathematics,Practical,Hard,9,Algebra,Exercises,Statistics
+S322,23,2.3,63.6,53.7,56.7,7,Web Development,Audio,Easy,6,HTML CSS,Audio,HTML CSS
+S323,18,1.8,52.8,64.2,79.2,6,Mathematics,Practical,Medium,10,Statistics,Exercises,Statistics
+S324,23,3.5,92.1,87.4,86.8,2,Programming,Reading,Hard,15,Machine Learning,Notes,Python Functions
+S325,18,4.9,81.3,94.9,96.8,2,Programming,Reading,Hard,14,Python OOP,Notes,Python OOP
+S326,20,2.5,91.9,78.3,73.8,4,Programming,Reading,Hard,12,Machine Learning,Notes,Python Functions
+S327,20,4.3,72.8,85.8,85.7,3,Mathematics,Visual,Hard,11,Algebra,Video,Probability
+S328,22,5.1,90.9,97.3,100.0,3,Mathematics,Practical,Hard,12,Probability,Exercises,Probability
+S329,19,5.6,92.9,98.0,90.1,1,Programming,Reading,Hard,9,Machine Learning,Notes,Python OOP
+S330,22,1.9,75.1,64.7,63.6,1,Web Development,Practical,Medium,13,JavaScript,Exercises,HTML CSS
+S331,19,3.6,88.6,85.6,88.5,5,Web Development,Audio,Hard,5,HTML CSS,Audio,HTML CSS
+S332,19,3.6,58.5,68.2,67.3,7,Programming,Audio,Medium,4,Machine Learning,Audio,Python Functions
+S333,18,1.7,85.6,84.1,91.4,7,Web Development,Practical,Hard,13,HTML CSS,Exercises,HTML CSS
+S334,22,3.2,99.3,88.3,86.3,5,Web Development,Practical,Hard,15,HTML CSS,Exercises,HTML CSS
+S335,23,2.6,76.6,71.9,72.9,6,Data Science,Practical,Medium,10,Pandas,Exercises,Pandas
+S336,18,3.7,82.4,88.2,95.3,2,Data Science,Reading,Hard,14,Machine Learning,Notes,NumPy
+S337,18,4.9,67.0,67.3,72.9,3,Web Development,Audio,Medium,14,HTML CSS,Audio,JavaScript
+S338,22,1.4,75.1,56.7,45.9,1,Programming,Practical,Medium,8,Machine Learning,Exercises,Python Basics
+S339,22,4.3,92.7,87.9,72.4,4,Mathematics,Visual,Hard,4,Probability,Video,Probability
+S340,23,2.7,85.1,66.9,68.0,1,Mathematics,Audio,Medium,12,Statistics,Audio,Statistics
+S341,20,3.5,89.0,86.6,80.8,2,Data Science,Reading,Hard,8,Statistics,Notes,NumPy
+S342,24,5.3,83.7,96.2,90.6,1,Data Science,Practical,Hard,4,Pandas,Exercises,Machine Learning
+S343,20,2.8,70.0,72.7,83.0,6,Data Science,Practical,Medium,10,NumPy,Exercises,Pandas
+S344,24,1.4,58.4,72.0,70.7,1,Web Development,Reading,Medium,12,JavaScript,Notes,HTML CSS
+S345,19,2.5,92.5,75.0,86.0,6,Web Development,Visual,Hard,10,HTML CSS,Video,HTML CSS
+S346,22,4.5,78.1,98.0,94.4,5,Data Science,Reading,Hard,12,NumPy,Notes,Machine Learning
+S347,24,4.6,87.8,98.0,100.0,5,Programming,Visual,Hard,3,Python Basics,Video,Python OOP
+S348,23,3.5,73.0,83.7,79.6,7,Web Development,Reading,Hard,14,JavaScript,Notes,HTML CSS
+S349,22,6.5,89.6,98.0,99.1,6,Programming,Audio,Hard,12,Python OOP,Audio,Python OOP
+S350,23,1.5,66.3,73.3,69.4,3,Mathematics,Reading,Medium,14,Statistics,Notes,Statistics
+S351,21,1.9,85.2,82.6,86.9,3,Mathematics,Visual,Hard,13,Algebra,Video,Statistics
+S352,19,5.0,75.9,80.2,89.2,4,Mathematics,Audio,Hard,9,Algebra,Audio,Probability
+S353,20,3.0,78.0,88.9,92.2,5,Data Science,Practical,Hard,15,NumPy,Exercises,Pandas
+S354,23,4.2,100.0,89.3,94.9,7,Web Development,Audio,Hard,4,JavaScript,Audio,JavaScript
+S355,22,3.6,85.4,97.3,100.0,5,Programming,Practical,Hard,5,Machine Learning,Exercises,Python Functions
+S356,18,4.3,96.5,91.0,86.0,3,Mathematics,Reading,Hard,4,Algebra,Notes,Probability
+S357,18,1.9,55.2,79.1,72.5,3,Mathematics,Audio,Hard,5,Algebra,Audio,Statistics
+S358,24,3.2,78.1,82.2,87.1,3,Web Development,Reading,Hard,14,HTML CSS,Notes,HTML CSS
+S359,21,4.8,77.6,89.4,91.1,5,Mathematics,Audio,Hard,6,Probability,Audio,Probability
+S360,18,3.1,100.0,90.6,95.0,1,Mathematics,Audio,Hard,5,Algebra,Audio,Statistics
+S361,22,4.5,98.1,97.3,89.5,3,Programming,Visual,Hard,6,Machine Learning,Video,Python OOP
+S362,22,4.1,75.4,80.9,84.4,7,Mathematics,Practical,Hard,10,Algebra,Exercises,Probability
+S363,24,5.4,86.1,98.0,100.0,1,Mathematics,Reading,Hard,6,Statistics,Notes,Probability
+S364,20,3.9,100.0,96.8,86.2,7,Mathematics,Practical,Hard,2,Probability,Exercises,Statistics
+S365,18,4.6,88.8,98.0,100.0,5,Data Science,Practical,Hard,10,NumPy,Exercises,Machine Learning
+S366,18,3.3,66.9,74.8,69.7,4,Mathematics,Practical,Medium,15,Statistics,Exercises,Statistics
+S367,23,2.6,87.3,92.1,94.5,5,Programming,Reading,Hard,3,Machine Learning,Notes,Python Functions
+S368,20,1.7,83.7,80.8,77.1,7,Web Development,Practical,Hard,14,HTML CSS,Exercises,HTML CSS
+S369,19,3.3,81.8,75.5,79.4,5,Mathematics,Visual,Hard,2,Algebra,Video,Statistics
+S370,19,3.3,86.6,76.3,73.7,6,Web Development,Audio,Hard,10,JavaScript,Audio,HTML CSS
+S371,19,4.6,79.7,98.0,95.6,5,Data Science,Practical,Hard,11,NumPy,Exercises,Machine Learning
+S372,19,3.8,93.8,78.1,67.5,4,Web Development,Practical,Hard,10,JavaScript,Exercises,HTML CSS
+S373,23,1.2,92.6,66.4,81.7,5,Web Development,Audio,Medium,15,HTML CSS,Audio,HTML CSS
+S374,20,2.7,82.6,90.1,100.0,3,Programming,Audio,Hard,11,Python OOP,Audio,Python Functions
+S375,24,6.6,100.0,98.0,100.0,6,Programming,Audio,Hard,6,Python Functions,Audio,Python OOP
+S376,23,4.7,77.8,83.6,83.6,1,Mathematics,Reading,Hard,10,Statistics,Notes,Probability
+S377,23,3.2,76.0,84.6,90.3,5,Mathematics,Reading,Hard,15,Statistics,Notes,Statistics
+S378,19,3.6,99.9,81.0,79.8,1,Programming,Reading,Hard,2,Machine Learning,Notes,Python Functions
+S379,20,2.4,57.4,66.2,65.5,4,Data Science,Audio,Medium,13,Pandas,Audio,NumPy
+S380,21,5.8,94.2,95.4,100.0,5,Mathematics,Visual,Hard,13,Algebra,Video,Probability
+S381,22,5.3,92.6,97.7,91.9,2,Web Development,Audio,Hard,10,JavaScript,Audio,JavaScript
+S382,20,2.9,93.9,98.0,100.0,2,Mathematics,Practical,Hard,10,Probability,Exercises,Statistics
+S383,23,2.8,67.2,74.2,63.6,7,Web Development,Audio,Medium,5,HTML CSS,Audio,HTML CSS
+S384,20,4.0,81.2,82.7,73.1,5,Web Development,Reading,Hard,6,JavaScript,Notes,JavaScript
+S385,23,4.3,77.2,77.8,60.6,2,Mathematics,Practical,Hard,9,Probability,Exercises,Probability
+S386,22,3.5,100.0,98.0,95.3,7,Web Development,Practical,Hard,3,JavaScript,Exercises,HTML CSS
+S387,21,2.6,85.8,70.2,72.0,7,Web Development,Reading,Medium,6,HTML CSS,Notes,HTML CSS
+S388,20,4.6,98.9,96.0,94.8,6,Programming,Practical,Hard,9,Python OOP,Exercises,Python OOP
+S389,23,2.2,69.5,67.9,70.1,4,Data Science,Reading,Medium,15,NumPy,Notes,NumPy
+S390,22,4.9,75.2,98.0,96.4,6,Web Development,Reading,Hard,3,HTML CSS,Notes,JavaScript
+S391,19,3.5,73.0,60.7,66.0,1,Data Science,Reading,Medium,2,Statistics,Notes,NumPy
+S392,21,4.6,80.8,91.0,94.1,3,Mathematics,Visual,Hard,12,Algebra,Video,Probability
+S393,18,1.2,71.1,69.6,62.1,5,Data Science,Audio,Medium,12,Machine Learning,Audio,NumPy
+S394,21,3.9,66.5,84.3,84.1,6,Data Science,Practical,Hard,7,NumPy,Exercises,Pandas
+S395,23,1.1,91.2,63.7,58.8,1,Programming,Reading,Medium,10,Python Basics,Notes,Python Basics
+S396,19,3.8,96.4,82.2,82.6,4,Data Science,Visual,Hard,15,Machine Learning,Video,NumPy
+S397,24,4.1,91.5,92.1,89.9,4,Data Science,Practical,Hard,2,Statistics,Exercises,Pandas
+S398,20,2.3,80.6,65.7,48.2,5,Programming,Practical,Medium,6,Machine Learning,Exercises,Python Basics
+S399,23,4.2,94.2,73.5,67.4,5,Mathematics,Reading,Medium,15,Statistics,Notes,Probability
+S400,21,4.4,100.0,96.0,91.6,3,Data Science,Visual,Hard,7,Pandas,Video,NumPy
+S401,23,3.2,97.9,81.5,76.7,4,Web Development,Reading,Hard,2,JavaScript,Notes,HTML CSS
+S402,24,2.8,69.2,74.8,84.5,3,Data Science,Reading,Medium,11,Machine Learning,Notes,NumPy
+S403,24,4.0,80.0,83.7,74.3,4,Web Development,Visual,Hard,8,HTML CSS,Video,JavaScript
+S404,19,4.8,83.7,91.5,100.0,2,Mathematics,Practical,Hard,5,Algebra,Exercises,Probability
+S405,20,3.9,73.8,79.7,86.6,4,Data Science,Audio,Hard,14,NumPy,Audio,NumPy
+S406,20,3.7,65.1,86.0,82.0,3,Programming,Practical,Hard,12,Python OOP,Exercises,Python Functions
+S407,23,6.3,100.0,98.0,100.0,2,Programming,Visual,Hard,9,Python OOP,Video,Python OOP
+S408,19,3.6,92.4,91.4,86.3,4,Web Development,Visual,Hard,12,JavaScript,Video,HTML CSS
+S409,20,2.5,92.4,77.2,74.8,5,Data Science,Reading,Hard,4,Machine Learning,Notes,NumPy
+S410,19,2.1,84.3,90.7,84.3,4,Web Development,Audio,Hard,13,JavaScript,Audio,HTML CSS
+S411,24,3.5,98.9,88.5,91.2,5,Data Science,Reading,Hard,12,Statistics,Notes,NumPy
+S412,22,1.9,83.9,71.2,77.1,4,Web Development,Visual,Medium,11,HTML CSS,Video,HTML CSS
+S413,18,5.3,100.0,98.0,100.0,7,Data Science,Reading,Hard,4,NumPy,Notes,Machine Learning
+S414,24,3.8,78.4,86.7,84.9,5,Mathematics,Visual,Hard,12,Algebra,Video,Statistics
+S415,23,3.8,98.4,83.0,89.8,5,Mathematics,Visual,Hard,10,Probability,Video,Statistics
+S416,24,5.5,84.6,81.1,77.5,1,Mathematics,Reading,Hard,10,Probability,Notes,Probability
+S417,21,5.4,85.5,89.7,86.7,5,Programming,Audio,Hard,12,Python OOP,Audio,Python OOP
+S418,23,4.8,91.2,93.6,91.4,1,Mathematics,Practical,Hard,15,Algebra,Exercises,Probability
+S419,23,2.9,69.7,87.6,85.7,2,Programming,Visual,Hard,8,Python OOP,Video,Python Functions
+S420,23,5.3,100.0,98.0,95.4,1,Programming,Visual,Hard,9,Python Basics,Video,Python OOP
+S421,20,4.1,82.9,80.5,82.4,4,Data Science,Reading,Hard,14,Machine Learning,Notes,NumPy
+S422,20,1.7,92.7,70.6,71.8,4,Mathematics,Audio,Medium,8,Algebra,Audio,Statistics
+S423,23,3.9,79.7,89.9,87.1,6,Data Science,Practical,Hard,3,Pandas,Exercises,Pandas
+S424,22,4.8,68.4,88.6,100.0,4,Data Science,Reading,Hard,15,Statistics,Notes,Machine Learning
+S425,24,2.0,70.9,72.9,74.0,1,Web Development,Audio,Medium,12,JavaScript,Audio,HTML CSS
+S426,22,4.0,88.9,94.2,100.0,4,Data Science,Reading,Hard,9,NumPy,Notes,NumPy
+S427,19,4.1,80.3,92.2,100.0,3,Data Science,Visual,Hard,2,Machine Learning,Video,NumPy
+S428,22,3.3,69.9,86.4,85.7,7,Programming,Reading,Hard,5,Python Basics,Notes,Python Functions
+S429,18,0.5,86.2,59.4,58.9,5,Programming,Audio,Medium,11,Python Basics,Audio,Python Basics
+S430,19,4.0,85.3,93.5,90.9,6,Programming,Audio,Hard,9,Python Functions,Audio,Python OOP
+S431,22,4.3,80.5,94.2,97.9,2,Programming,Reading,Hard,10,Python OOP,Notes,Python OOP
+S432,19,2.1,92.2,72.7,77.5,7,Web Development,Practical,Medium,5,JavaScript,Exercises,HTML CSS
+S433,19,4.1,100.0,91.9,89.8,6,Data Science,Audio,Hard,6,NumPy,Audio,NumPy
+S434,18,3.5,78.4,88.3,78.6,5,Data Science,Audio,Hard,10,Machine Learning,Audio,NumPy
+S435,18,1.9,66.0,74.0,84.3,3,Mathematics,Practical,Medium,13,Probability,Exercises,Statistics
+S436,21,3.3,79.6,81.5,88.5,2,Web Development,Audio,Hard,4,JavaScript,Audio,HTML CSS
+S437,19,2.1,82.1,81.2,84.2,7,Data Science,Practical,Hard,15,Pandas,Exercises,Pandas
+S438,24,3.8,94.6,68.1,72.2,4,Programming,Audio,Medium,8,Python Functions,Audio,Python Functions
+S439,21,2.5,58.0,71.9,80.1,2,Web Development,Reading,Medium,7,HTML CSS,Notes,HTML CSS
+S440,21,3.3,93.0,98.0,100.0,7,Web Development,Visual,Hard,10,HTML CSS,Video,HTML CSS
+S441,18,6.0,95.9,98.0,88.4,3,Mathematics,Visual,Hard,15,Algebra,Video,Probability
+S442,19,3.1,71.1,94.0,92.9,7,Data Science,Audio,Hard,5,NumPy,Audio,NumPy
+S443,20,3.7,89.0,87.4,97.6,1,Data Science,Reading,Hard,13,Statistics,Notes,NumPy
+S444,23,2.6,82.5,71.1,63.2,7,Mathematics,Reading,Medium,13,Statistics,Notes,Statistics
+S445,23,2.6,79.8,72.7,68.5,2,Mathematics,Reading,Medium,10,Probability,Notes,Statistics
+S446,24,1.4,76.8,54.6,59.2,3,Mathematics,Audio,Easy,10,Statistics,Audio,Algebra
+S447,20,3.6,64.7,75.4,70.9,3,Web Development,Practical,Hard,10,JavaScript,Exercises,HTML CSS
+S448,21,4.0,99.1,77.7,78.4,1,Mathematics,Practical,Hard,5,Probability,Exercises,Probability
+S449,20,3.3,89.7,86.2,81.7,4,Programming,Reading,Hard,13,Python Functions,Notes,Python Functions
+S450,18,3.0,71.4,84.6,84.7,3,Mathematics,Practical,Hard,4,Algebra,Exercises,Statistics
+S451,20,6.4,87.1,98.0,88.9,2,Mathematics,Reading,Hard,9,Statistics,Notes,Probability
+S452,23,0.8,57.6,57.9,61.0,6,Web Development,Practical,Medium,14,JavaScript,Exercises,HTML CSS
+S453,23,1.1,87.9,64.6,65.5,6,Mathematics,Audio,Medium,4,Statistics,Audio,Statistics
+S454,24,5.9,97.6,98.0,92.7,3,Data Science,Reading,Hard,13,Machine Learning,Notes,Machine Learning
+S455,19,0.5,67.4,55.4,49.5,5,Programming,Visual,Medium,15,Python Basics,Video,Python Basics
+S456,24,3.3,82.5,80.2,76.3,6,Programming,Visual,Hard,8,Python Functions,Video,Python Functions
+S457,24,3.8,87.9,78.6,87.1,6,Data Science,Visual,Hard,13,Pandas,Video,NumPy
+S458,18,3.4,82.0,88.2,89.6,2,Mathematics,Practical,Hard,2,Statistics,Exercises,Statistics
+S459,23,4.9,88.2,90.3,92.5,6,Mathematics,Audio,Hard,2,Algebra,Audio,Probability
+S460,22,1.8,79.9,70.3,69.1,5,Mathematics,Visual,Medium,2,Statistics,Video,Statistics
+S461,23,3.3,59.0,69.4,70.0,3,Web Development,Visual,Medium,10,JavaScript,Video,HTML CSS
+S462,24,3.7,70.1,90.6,85.4,2,Programming,Visual,Hard,10,Python Functions,Video,Python Functions
+S463,19,5.0,90.1,91.4,100.0,2,Web Development,Practical,Hard,6,JavaScript,Exercises,JavaScript
+S464,18,1.7,89.4,81.2,77.2,3,Mathematics,Audio,Hard,11,Algebra,Audio,Statistics
+S465,23,5.6,83.2,98.0,99.6,2,Web Development,Visual,Hard,12,HTML CSS,Video,JavaScript
+S466,18,3.3,91.3,91.4,80.9,4,Mathematics,Audio,Hard,10,Probability,Audio,Statistics
+S467,18,5.5,66.1,98.0,100.0,6,Programming,Reading,Hard,3,Machine Learning,Notes,Python OOP
+S468,24,1.9,73.9,60.3,59.0,4,Web Development,Visual,Medium,10,HTML CSS,Video,HTML CSS
+S469,19,3.0,90.4,93.1,100.0,2,Mathematics,Practical,Hard,2,Algebra,Exercises,Statistics
+S470,23,2.7,77.9,62.7,57.9,3,Programming,Reading,Medium,15,Python OOP,Notes,Python Basics
+S471,18,4.9,100.0,89.4,85.8,2,Data Science,Audio,Hard,3,NumPy,Audio,Machine Learning
+S472,19,3.5,85.4,77.9,80.4,5,Data Science,Audio,Hard,12,NumPy,Audio,NumPy
+S473,21,2.8,80.4,82.1,82.1,7,Data Science,Visual,Hard,10,NumPy,Video,NumPy
+S474,18,2.8,79.3,76.6,74.4,1,Mathematics,Reading,Hard,15,Algebra,Notes,Statistics
+S475,20,3.1,100.0,91.2,89.4,5,Mathematics,Practical,Hard,2,Statistics,Exercises,Statistics
+S476,20,4.5,80.0,98.0,100.0,7,Mathematics,Audio,Hard,5,Probability,Audio,Probability
+S477,22,3.3,87.0,71.0,64.2,4,Mathematics,Reading,Medium,12,Statistics,Notes,Statistics
+S478,23,1.7,80.1,83.8,97.2,4,Programming,Practical,Hard,14,Python Functions,Exercises,Python Functions
+S479,23,4.5,90.0,78.6,75.3,1,Programming,Practical,Hard,4,Machine Learning,Exercises,Python OOP
+S480,23,2.3,72.1,70.0,67.2,7,Data Science,Audio,Medium,7,NumPy,Audio,NumPy
+S481,18,0.5,85.0,54.7,56.1,1,Programming,Practical,Easy,9,Python OOP,Exercises,Python Basics
+S482,24,6.6,77.2,83.0,81.3,3,Programming,Reading,Hard,3,Python Functions,Notes,Python OOP
+S483,21,5.2,100.0,91.6,94.6,4,Mathematics,Visual,Hard,2,Algebra,Video,Probability
+S484,20,2.8,79.3,98.0,89.0,5,Programming,Practical,Hard,15,Machine Learning,Exercises,Python Functions
+S485,18,3.9,88.4,96.9,97.5,3,Mathematics,Audio,Hard,14,Algebra,Audio,Statistics
+S486,23,4.0,78.3,87.6,85.5,5,Data Science,Reading,Hard,12,Machine Learning,Notes,NumPy
+S487,19,4.4,79.4,91.6,91.4,2,Web Development,Practical,Hard,6,JavaScript,Exercises,JavaScript
+S488,19,5.2,84.8,81.9,89.5,1,Data Science,Audio,Hard,6,Machine Learning,Audio,Machine Learning
+S489,20,2.1,71.4,64.9,73.1,4,Programming,Practical,Medium,6,Python Functions,Exercises,Python Functions
+S490,23,0.5,100.0,76.9,78.2,6,Mathematics,Reading,Hard,9,Algebra,Notes,Statistics
+S491,19,3.4,85.2,87.8,91.7,3,Programming,Audio,Hard,7,Machine Learning,Audio,Python Functions
+S492,24,4.3,84.7,88.2,87.3,7,Web Development,Audio,Hard,7,JavaScript,Audio,JavaScript
+S493,24,3.2,95.0,90.4,72.8,7,Data Science,Practical,Hard,7,Pandas,Exercises,Pandas
+S494,21,4.5,86.3,91.6,89.3,3,Data Science,Audio,Hard,7,NumPy,Audio,Machine Learning
+S495,23,5.2,96.8,94.1,96.5,6,Mathematics,Reading,Hard,7,Probability,Notes,Probability
+S496,20,2.0,62.4,60.8,66.0,7,Mathematics,Practical,Medium,3,Statistics,Exercises,Statistics
+S497,19,4.9,91.0,98.0,100.0,5,Data Science,Visual,Hard,13,Machine Learning,Video,Machine Learning
+S498,23,2.5,85.2,83.7,88.2,2,Mathematics,Practical,Hard,15,Statistics,Exercises,Statistics
+S499,18,5.3,94.1,98.0,100.0,7,Mathematics,Audio,Hard,4,Statistics,Audio,Probability
+S500,20,3.5,71.4,78.2,73.7,2,Web Development,Reading,Hard,13,JavaScript,Notes,HTML CSS

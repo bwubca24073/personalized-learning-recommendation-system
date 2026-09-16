@@ -1,0 +1,34 @@
+Resource_ID,Topic,Resource_Type,Learning_Style,Difficulty,Resource_Name
+R001,Python Basics,Video,Visual,Easy,Python Basics Video Tutorial
+R002,Python Basics,Notes,Reading,Easy,Python Basics Study Notes
+R003,Python Basics,Exercises,Practical,Medium,Python Basics Practice Set
+R004,Python Functions,Video,Visual,Easy,Python Functions Video Tutorial
+R005,Python Functions,Notes,Reading,Medium,Python Functions Study Notes
+R006,Python Functions,Exercises,Practical,Medium,Python Functions Practice Set
+R007,Python OOP,Video,Visual,Medium,Python OOP Video Course
+R008,Python OOP,Notes,Reading,Medium,Python OOP Study Notes
+R009,Python OOP,Exercises,Practical,Hard,Python OOP Practice Set
+R010,Pandas,Video,Visual,Medium,Pandas Tutorial Video
+R011,Pandas,Notes,Reading,Medium,Pandas Study Notes
+R012,Pandas,Exercises,Practical,Hard,Pandas Practice Exercises
+R013,NumPy,Video,Visual,Easy,NumPy Tutorial Video
+R014,NumPy,Notes,Reading,Medium,NumPy Study Notes
+R015,NumPy,Exercises,Practical,Medium,NumPy Practice Exercises
+R016,Statistics,Video,Visual,Easy,Statistics Video Tutorial
+R017,Statistics,Notes,Reading,Easy,Statistics Study Notes
+R018,Statistics,Exercises,Practical,Medium,Statistics Practice Set
+R019,Algebra,Video,Visual,Easy,Algebra Video Tutorial
+R020,Algebra,Notes,Reading,Easy,Algebra Study Notes
+R021,Algebra,Exercises,Practical,Medium,Algebra Practice Set
+R022,Probability,Video,Visual,Medium,Probability Video Tutorial
+R023,Probability,Notes,Reading,Medium,Probability Study Notes
+R024,Probability,Exercises,Practical,Hard,Probability Practice Set
+R025,HTML CSS,Video,Visual,Easy,HTML CSS Video Tutorial
+R026,HTML CSS,Notes,Reading,Easy,HTML CSS Study Notes
+R027,HTML CSS,Exercises,Practical,Medium,HTML CSS Practice Set
+R028,JavaScript,Video,Visual,Medium,JavaScript Video Tutorial
+R029,JavaScript,Notes,Reading,Medium,JavaScript Study Notes
+R030,JavaScript,Exercises,Practical,Hard,JavaScript Practice Set
+R031,Machine Learning,Video,Visual,Hard,Machine Learning Video Course
+R032,Machine Learning,Notes,Reading,Hard,Machine Learning Study Notes
+R033,Machine Learning,Exercises,Practical,Hard,Machine Learning Practice Set
